@@ -1,0 +1,12 @@
+:root {
+  /* colors */
+  --red: #ed6146;
+  --dark-blue: #56407f;
+  --light-blue: #7fb3ee;
+  --purple: #b569af;
+  --white: #fff;
+  
+  --spacing-unit: 5px;
+  --site-wrapper: 500px;
+  --transition-time: 0.2s;
+}

@@ -1,0 +1,18 @@
+.sort-by {
+  display: flex;
+  gap: calc(var(--spacing-unit) * 2);
+}
+
+.sort-by button {
+  display: flex;
+  padding: var(--spacing-unit);
+  background-color: var(--red);
+  border: 1px solid var(--red);
+  color: var(--white);
+  transition: var(--transition-time);
+}
+
+.sort-by button:hover {
+  background-color: var(--white);
+  color: var(--light-blue);
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 123,
+    "location": "New York",
+    "time": "Sun, Aug 28, 2023",
+    "author": "Joyful Writer",
+    "text": "Writing is a journey that explores the depths of imagination and creativity."
+  },
+  {
+    "id": 456,
+    "location": "Los Angeles",
+    "time": "Mon, Aug 29, 2023",
+    "author": "Adventurous Reader",
+    "text": "Every book is a new adventure waiting to be discovered."
+  },
+  {
+    "id": 789,
+    "location": "Chicago",
+    "time": "Tue, Aug 30, 2023",
+    "author": "Curious Learner",
+    "text": "Learning opens doors to a world of endless possibilities."
+  },
+  {
+    "id": 101,
+    "location": "San Francisco",
+    "time": "Wed, Aug 31, 2023",
+    "author": "Tech Enthusiast",
+    "text": "Technology shapes the future and transforms how we live."
+  },
+  {
+    "id": 202,
+    "location": "Seattle",
+    "time": "Thu, Sep 1, 2023",
+    "author": "Dreamer",
+    "text": "Dreams have the power to inspire and drive us forward."
+  },
+  {
+    "id": 303,
+    "location": "Miami",
+    "time": "Fri, Sep 2, 2023",
+    "author": "Passionate Creator",
+    "text": "Creativity flows like a river, shaping worlds along the way."
+  }
+]

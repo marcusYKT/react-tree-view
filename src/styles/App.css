@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Lato&family=Roboto:wght@400;700&display=swap');
+
+.App {
+  background-color: var(--dark-blue);
+  color: var(--light-blue);
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 500px) {
+  .App {
+    padding: 0 calc(var(--spacing-unit) * 2);
+  }
+}
+
+.app__wrapper {
+  max-width: var(--site-wrapper);
+  margin: 0 auto;
+  width: 100%;
+  padding: calc(var(--spacing-unit) * 10) 0;
+  color: var(--light-blue);
+}
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  border: 0;
+  cursor: pointer;
+}
+
+p, button {
+  color: inherit;
+}
+
+input {
+  font-family: inherit;
+}
+
+::placeholder {
+  color: var(--purple);
+}
